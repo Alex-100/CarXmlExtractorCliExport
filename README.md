@@ -14,3 +14,5 @@ In the project these libraries are used:
 * [Apache Common Collection](https://commons.apache.org/proper/commons-collections/)
 * [Project Lombok](https://projectlombok.org/)
 
+### Workflow
+https://youtu.be/QVxE788qHGE 
